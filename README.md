@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋 I'm Arif Gungorur</h1>
 
 <h3 align="center">Full-Stack Automation Engineer</h3>
+https://arifgungorur.vercel.app/
 
 <p align="justify">I'm 29 years old, working in IT for 3 year. Graduated from Ankara University, working as a full stack QA automation tester. 
   My favorite programming languages are Java and Python. 
@@ -20,8 +21,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arifgungorur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arifgungorur" height="30" width="40" /></a>
-  <a href="https://arifgungorur.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arifgungorur" height="30" width="40" /></a>
-  
 </p>
 
 <p>&nbsp;</p>
