@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋 I'm Arif Gungorur</h1>
 
 <h3 align="center">Full-Stack Automation Engineer</h3>
-https://arifgungorur.vercel.app/
+https://resumearifgungorur.vercel.app/
 
 <p align="justify">I'm 29 years old, working in IT more than 3 years. Graduated from Ankara University, working as a full stack QA automation tester. 
   My favorite programming languages are Java and Python. 
