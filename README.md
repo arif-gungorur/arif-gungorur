@@ -5,8 +5,8 @@
 <h3 align="center">Full-Stack Automation Engineer</h3>
 https://resumearifgungorur.vercel.app/
 
-<p align="justify">I'm 29 years old, working in IT more than 5 years. Graduated from Ankara University, working as a full stack QA automation tester. 
-  My favorite programming languages are Java and Python. 
+<p align="justify">I'm 29 years old, working in IT more than 3 years. Graduated from Ankara University, working as a full stack QA automation tester. 
+  My favorite programming languages are Java and SQL. 
   I also developed myself in Selenium , MySQL and API 💻 </p>
   
 <p>&nbsp;</p>
